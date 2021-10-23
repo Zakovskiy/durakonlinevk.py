@@ -11,7 +11,7 @@ git clone https://github.com/Zakovskiy/durakonlinevk.py
 ```python
 import durakonlinevk
 
-DurakOnlineVK = durakonlinevk.Client("app_key", "user_id (int)");
+DurakOnlineVK = durakonlinevk.Client("auth_key", "user_id (int)");
 ```
 
 ### [Telegram](https://t.me/zakovskiy)
